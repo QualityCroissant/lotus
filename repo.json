@@ -1,0 +1,33 @@
+[
+    {
+        "Name": "lotus",
+        "Description": "Lotus theme",
+        "Website": "https://github.com/finn-chipp/lotus",
+
+        "Tags": [
+            "lotus",
+            "color",
+            "colors",
+            "colour",
+            "colours",
+            "syntax",
+            "theme",
+            "themes",
+            "highlighting",
+            "dark",
+            "colorscheme",
+            "colorschemes"
+        ],
+
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "Url": "https://github.com/finn-chipp/lotus/releases/tag/1.0.0",
+
+                "Require": {
+                    "micro": ">=1.1.3"
+                }
+            }
+        ]
+    }
+]
